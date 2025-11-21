@@ -3,7 +3,7 @@
 **Historial de commits:**
 
 **Preseed inicial**  
-Se ha creado y rellenado un archivo preseed.cfg lo más completo posible del que partiremos inicialmente.
+Se ha creado y rellenado un archivo `preseed.cfg` lo más completo posible del que partiremos inicialmente.
 
 **Nombre de usuario y nomenclatura de disco modificados**  
 Se cambia de `debianASO` a `debianaso` el nombre de usuario, y se modifica de `sda` a `vda` el disco en el que se va a escribir.
