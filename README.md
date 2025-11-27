@@ -18,3 +18,6 @@ Se han desactivado todos los comandos `preseed\late`.
 
 **Primer boot automatizado**  
 Se han modificado algunas líneas de tasksel y variables de teclado.
+
+**Mejora particionado V1**
+El particionado se ha mejorado y ampliado valores, aún así me pregunta si quiero crear particion swap.
