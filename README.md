@@ -21,3 +21,6 @@ Se han modificado algunas líneas de tasksel y variables de teclado.
 
 **Mejora particionado V1**
 El particionado se ha mejorado y ampliado valores, aún así me pregunta si quiero crear particion swap.
+
+**Mejora particionado V2**
+Se ha añadido swap y recalculado el tamaño de las particiones.
