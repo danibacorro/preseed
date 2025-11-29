@@ -26,5 +26,5 @@ El particionado se ha mejorado y ampliado valores, aún así me pregunta si quie
 Se ha añadido swap y recalculado el tamaño de las particiones.
 
 **Entrega**  
-Si bien solo instala en discos de nomenclatura `vda`, he conseguido que el particionado se haga de forma dinámica, repartiéndose un 41,5% a las particiones `/` y `/home`, y un 17% a `/var`. Estos porcentajes toman efecto sobre el espacio libre en disco tras la creación de las particiones `boot`, `/boot/efi` y `/swap`.  
+Si bien solo instala en discos de nomenclatura `vda`, he conseguido que el particionado se haga de forma dinámica, asignándose un 41,5% de forma individual a las particiones `/` y `/home`, y un 17% a `/var`. Estos porcentajes toman efecto sobre el espacio libre en disco tras la creación de las particiones `/boot`, `/boot/efi` y `/swap`.  
 Además, se han incluido archivos de configuración de la ISO para que la instalación se inicie de forma completamente automática.
