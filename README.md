@@ -2,6 +2,8 @@
 
 **Historial de commits:**
 
+**Tarea 1**  
+
 **Preseed inicial**  
 Se ha creado y rellenado un archivo `preseed.cfg` lo más completo posible del que partiremos inicialmente.
 
@@ -27,4 +29,11 @@ Se ha añadido swap y recalculado el tamaño de las particiones.
 
 **Entrega**  
 Si bien solo instala en discos de nomenclatura `vda`, he conseguido que el particionado se haga de forma dinámica, asignándose un 41,5% de forma individual a las particiones `/` y `/home`, y un 17% a `/var`. Estos porcentajes toman efecto sobre el espacio libre en disco tras la creación de las particiones `/boot`, `/boot/efi` y `/swap`.  
-Además, se han incluido archivos de configuración de la ISO para que la instalación se inicie de forma completamente automática.
+Además, se han incluido archivos de configuración de la ISO para que la instalación se inicie de forma completamente automática.  
+
+
+
+**Tarea 2**
+
+**Entrega Tarea 2**
+Se han modificado los archivos de arranque tanto de UEFI como BIOS para que descarguen y usen el fichero `preseed.cfg` alojado en mi VPS.
